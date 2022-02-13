@@ -1,0 +1,24 @@
+.nav{
+    height: 100px;
+    background-color:goldenrod;
+    }
+    
+    .container{
+        width: 80%;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+.container .navigation a{
+    font-size: 20px;
+    padding: 0 10px;
+ text-decoration: none;
+
+}
+
+.container .navigation a:hover{
+    color:white;
+}
